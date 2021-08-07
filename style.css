@@ -34,3 +34,16 @@ color:#FFFFFF;
 font-weight: 300;
 font-size: 16px;
 }
+
+h4{
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+}
+hr{
+    width: 58.5px;
+    border-radius: 1px;
+}
+.img-grayscale{
+    filter:grayscale(1);
+}
