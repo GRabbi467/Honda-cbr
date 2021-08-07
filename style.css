@@ -47,3 +47,17 @@ hr{
 .img-grayscale{
     filter:grayscale(1);
 }
+p{
+    color: #6C6C6C;
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+}
+/* latest News section */
+.letest-h5{
+    font-style: normal;
+font-weight: 600;
+font-size: 28px;
+
+}
