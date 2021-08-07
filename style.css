@@ -54,10 +54,41 @@ font-weight: normal;
 font-size: 16px;
 line-height: 26px;
 }
-/* latest News section */
+
 .letest-h5{
     font-style: normal;
 font-weight: 600;
 font-size: 28px;
 
+}
+
+.letest-img{
+    width: 337px;
+    height: 256px;
+    border-radius: 10px;
+}
+/* .card{
+    border: 1px solid rgb(0 0 0 / 0%);
+} */
+.btn-color{
+    border: 1px solid #E76F51;
+    background-color: #FFFFFF;
+    color:#E76F51;
+    width: 160px;
+    height: 57px;
+}
+.btn-color:hover{
+    background: #E76F51;
+    color: #FFFFFF;
+}
+/* latest News section end */
+
+/* Happy Clients says */
+span{
+    color:#E76F51;
+}
+.rounded-circle{
+    width: 149px;
+    height: 149px;
+    
 }
