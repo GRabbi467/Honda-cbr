@@ -92,3 +92,41 @@ span{
     height: 149px;
     
 }
+
+.fa-star{
+    width: 22.01px;
+height: 22.01px;
+}
+.fa-star.filled{
+    color: #E77C40;
+    
+}
+.fa-star.empty{
+    color:#AEAEAE;
+}
+
+h6{
+    font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+}
+
+.miles-color{
+    color: #23A6F0;
+
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    }
+    .videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
+
+    
