@@ -129,4 +129,10 @@ line-height: 24px;
     height: 100%;
     }
 
+    footer{
+        background-color:#0B0D17;
+    }
+    footer a{
+        margin: 0 20px 0 0;
+    }
     
